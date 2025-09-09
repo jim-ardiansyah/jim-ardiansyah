@@ -21,12 +21,11 @@ Email me at <a href="beckerlisa93&commat;gmail.com">jardians&commat;tennessee.ed
 
 <h3>🚀 Current Projects:</h3>
 <ul>
-    <li>
-      Cybersecurity Defense with AI and GenAI
-    </li>
+  
   <li>AI 102 – Natural Language-Based Programming Techniques</li>
-<li>CECS 101 – Design Your Degree, Design Your Career</li>
-<li>AI 202 - Human-AI Interaction and Experience Design</li>
+  <li>AI 202 - Human-AI Interaction and Experience Design</li>
+  <li>CECS 101 – Design Your Degree, Design Your Career</li>
+  <li>Cybersecurity Defense with AI and GenAI</li>
 
 </ul>
 
